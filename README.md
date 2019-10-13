@@ -1,5 +1,5 @@
-1. Download aplikasi GitBash, Buka aplikasi GitBash,lalu pertama kita harus klik “git –version” ![image](https://user-
-images.githubusercontent.com/56400553/66710027-e5b59900-ed24-11e9-8562-55491086d858.png)
+1. Download aplikasi GitBash, Buka aplikasi GitBash,lalu pertama kita harus klik “git –version” 
+![image](https://user-images.githubusercontent.com/56400553/66710562-151dd300-ed30-11e9-9296-f6d4a169baf1.png)
 
 2. Langkah kedua, kita harus klik “git config –global user.name” dan “git config –global user.email” seperti pada gambar 
 ![image](https://user-images.githubusercontent.com/56400553/66710036-257c8080-ed25-11e9-84bc-34e5cfbe79d8.png)
