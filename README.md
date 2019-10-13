@@ -1,7 +1,7 @@
 1. Download aplikasi GitBash, Buka aplikasi GitBash,lalu pertama kita harus klik “git –version” ![image](https://user-
 images.githubusercontent.com/56400553/66710027-e5b59900-ed24-11e9-8562-55491086d858.png)
 
-2. Langkah kedua, kita harus klik “git config –global user.name” dan “git config –global user.email” seperti pada gambar dibawah ini
+2. Langkah kedua, kita harus klik “git config –global user.name” dan “git config –global user.email” seperti pada gambar 
 ![image](https://user-images.githubusercontent.com/56400553/66710036-257c8080-ed25-11e9-84bc-34e5cfbe79d8.png)
 
 3. Ketik “mkdir latihan1” dan “cd latihan1” seperti dibawah ini ![image](https://user-images.githubusercontent.com/56400553/66710046-87d58100-ed25-11e9-9df5-63b80949e744.png)
